@@ -1,6 +1,6 @@
-<img src="./cover.jpg" style="width:100%">
+[![Header](https://raw.githubusercontent.com/Ghidyon/Ghidyon/main/reademe_header.jpg)](https://github.com/Ghidyon)
 
-# Hello, gorgeous! <img src="./wave.gif" width="30px">
+# Hello, gorgeous! <img src="https://raw.githubusercontent.com/Ghidyon/Ghidyon/main/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
 
@@ -13,5 +13,9 @@
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=f0f6fc&color=30a14e&labelColor=21262d)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=31A8FF&color=30a14e&labelColor=21262d)
 ![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=F05032&color=30a14e&labelColor=21262d)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=f0f6fc&color=30a14e&labelColor=21262d)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=f0f6fc&color=30a14e&labelColor=21262d)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=30a14e&labelColor=21262d)
+
+## 📈 GitHub Stats
+
+![Ghidyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidyon)

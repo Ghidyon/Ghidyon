@@ -20,4 +20,4 @@
 
 ![Ghidyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&title_color=8b949e&text_color=b9c1c9&bg_color=161b22&hide_border=true)
 
-![Ghidyon's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true)
+![Ghidyon's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22)

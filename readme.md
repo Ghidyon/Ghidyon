@@ -19,8 +19,8 @@
 ## 📈 GitHub Stats
 
 <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463"/>
 </a>
 <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
 </a>

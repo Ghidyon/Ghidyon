@@ -6,16 +6,16 @@ I'm a full-stack web developer, but that's not all.
 I build buttery-smooth user interfaces, can make a blind man lick his screen 😊.<br />
 I enjoy being challenged with innovative ideas that encourage collaborations for development of smooth UIs and functional websites.
 
-You can connect with me on &ensp; &ensp; &ensp; [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/blob/main/icons/twitter.svg)](https://twitter.com/ghidyon_) &ensp; &ensp; &ensp; [![Go to LinkedIn](https://github.com/Ghidyon/Ghidyon/blob/main/icons/linkedin.svg)](https://linkedin.com/in/gideonakunana) &ensp; &ensp; &ensp; or send me an email [![mail](https://github.com/Ghidyon/Ghidyon/blob/main/icons/gmail.svg)](mailto:gideonakunana@gmail.com)
+You can connect with me on &ensp; &ensp; [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/blob/main/icons/twitter.svg)](https://twitter.com/ghidyon_) &ensp; &ensp; [![Go to LinkedIn](https://github.com/Ghidyon/Ghidyon/blob/main/icons/linkedin.svg)](https://linkedin.com/in/gideonakunana) &ensp; &ensp; or send me an email [![mail](https://github.com/Ghidyon/Ghidyon/blob/main/icons/gmail.svg)](mailto:gideonakunana@gmail.com)
 
 ### 🔧 Languages and Tools
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=777BB4&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=f0f6fc&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=f0f6fc&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jquery&logoColor=0769AD&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/Materialize-informational?style=flat&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=7952B3&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=8f32ee&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=f0f6fc&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=31A8FF&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=F05032&color=238636&labelColor=21262d)

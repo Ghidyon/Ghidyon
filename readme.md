@@ -6,7 +6,7 @@ I'm a full-stack web developer, but that's not all.
 I build buttery-smooth user interfaces, can make a blind man lick his screen 😊.
 I enjoy being challenged with innovative ideas that encourage collaborations to develop smooth UIs and functional websites.
 
-You can connect with me on [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/blob/main/icons/twitter.svg)](https://twitter.com/ghidyon_), [![Go to LinkedIn](https://github.com/Ghidyon/Ghidyon/blob/main/icons/linkedin.svg)](https://linkedin.com/in/gideonakunana) or send me an email [![mail](https://github.com/Ghidyon/Ghidyon/blob/main/icons/gmail.png)](mailto:gideonakunana@gmail.com)
+You can connect with me on [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/blob/main/icons/twitter.svg)](https://twitter.com/ghidyon_), [![Go to LinkedIn](https://github.com/Ghidyon/Ghidyon/blob/main/icons/linkedin.svg)](https://linkedin.com/in/gideonakunana) or send me an email [![mail](https://github.com/Ghidyon/Ghidyon/blob/main/icons/gmail.svg)](mailto:gideonakunana@gmail.com)
 
 ## 🔧 Technologies & Tools
 
@@ -26,6 +26,6 @@ You can connect with me on [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
 
-*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric showing languages I have the most code hosted on github.*
+*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric showing languages I have the most code, hosted on github.*
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>

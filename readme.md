@@ -2,8 +2,13 @@
 
 # Hello, gorgeous! <img src="https://github.com/Ghidyon/Ghidyon/blob/main/wave.gif" width="30px">
 I'm a full-stack web developer, but that's not all.
-I build buttery-smooth user interfaces, can make a blind man lick his screen 😉😊
+
+I build buttery-smooth user interfaces, can make a blind man lick his screen 😊.
+
 I enjoy being challenged with innovative ideas that encourage collaborations to develop smooth UIs and functional websites.
+
+### 🤝 Connect With Me
+[![Go to Twitter](https://pics.freeicons.io/uploads/icons/png/16438666591561032650-512.png)](https://twitter.com/ghidyon_)
 
 ## 🔧 Technologies & Tools
 

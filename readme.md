@@ -1,13 +1,11 @@
-<img src="./cover-image">
+<img src="./cover-image.jpg">
 
-# Hello, georgeous! <img src="./wave.gif" width="30px">
+# Hello, georgeous! <img src="./wave.gif" width="30px" height="">
 
 ## 🔧 Technologies & Tools
 
 <!-- Javascript -->
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=30a14e&labelColor=21262d)
-
-<!-- jQuery -->
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jquery&logoColor=0769AD&color=30a14e&labelColor=21262d)
 
 <!-- PHP -->

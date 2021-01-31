@@ -18,4 +18,4 @@
 
 ## 📈 GitHub Stats
 
-![Ghidyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&count_private=true&include_all_commits=true&title_color=c9d1d9&text_color=b9c1c9&bg_color=21262d)
+![Ghidyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&count_private=true&include_all_commits=true&title_color=8b949e&text_color=b9c1c9&bg_color=161b22&hide_border=false)

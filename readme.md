@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/Ghidyon/Ghidyon/main/reademe_header.jpg)](https://github.com/Ghidyon)
+[![Header](https://github.com/Ghidyon/Ghidyon/blob/main/readme_header.jpg)](https://github.com/Ghidyon)
 
-# Hello, gorgeous! <img src="https://raw.githubusercontent.com/Ghidyon/Ghidyon/main/wave.gif" width="30px">
+# Hello, gorgeous! <img src="https://github.com/Ghidyon/Ghidyon/blob/main/wave.gif" width="30px">
 
 ## 🔧 Technologies & Tools
 
@@ -18,4 +18,4 @@
 
 ## 📈 GitHub Stats
 
-![Ghidyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidyon)
+![Ghidyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&count_private=true)

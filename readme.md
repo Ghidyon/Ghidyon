@@ -4,7 +4,7 @@
 I'm a full-stack web developer, but that's not all.
 
 I build buttery-smooth user interfaces, can make a blind man lick his screen 😊.
-I also enjoy being challenged with innovative ideas that encourage collaborations for development of smooth UIs and functional websites.
+I enjoy being challenged with innovative ideas that encourage collaborations for development of smooth UIs and functional websites.
 
 You can connect with me on [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/blob/main/icons/twitter.svg)](https://twitter.com/ghidyon_) [![Go to LinkedIn](https://github.com/Ghidyon/Ghidyon/blob/main/icons/linkedin.svg)](https://linkedin.com/in/gideonakunana) or send me an email [![mail](https://github.com/Ghidyon/Ghidyon/blob/main/icons/gmail.svg)](mailto:gideonakunana@gmail.com)
 

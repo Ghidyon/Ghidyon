@@ -18,6 +18,6 @@
 
 ## 📈 GitHub Stats
 
-![Ghidyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=b9c1c9&text_color=b9c1c9&bg_color=161b22&hide_border=true)
+![Ghidyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=27d545&text_color=b9c1c9&bg_color=161b22&hide_border=true)
 
-![Ghidyon's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=b9c1c9&langs_count=7)
+![Ghidyon's Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=27d545&langs_count=6&layout=compact)

@@ -1,4 +1,4 @@
-<img src="./cover.jpg">
+<img src="./cover.jpg" style="width:100%">
 
 # Hello, gorgeous! <img src="./wave.gif" width="30px">
 

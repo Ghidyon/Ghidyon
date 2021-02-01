@@ -1,14 +1,13 @@
 [![Header](https://github.com/Ghidyon/Ghidyon/blob/main/readme_header.jpg)](https://github.com/Ghidyon)
 
-## Hello, gorgeous! <img src="https://github.com/Ghidyon/Ghidyon/blob/main/wave.gif" width="30px">
-I'm a full-stack web developer, but that's not all.
-
+# Hello, gorgeous! <img src="https://github.com/Ghidyon/Ghidyon/blob/main/wave.gif" width="30px">
+I'm a full-stack web developer, but that's not all.<br />
 I build buttery-smooth user interfaces, can make a blind man lick his screen 😊.<br />
 I enjoy being challenged with innovative ideas that encourage collaborations for development of smooth UIs and functional websites.
 
 You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/blob/main/icons/twitter.svg)](https://twitter.com/ghidyon_) &ensp; [![Go to LinkedIn](https://github.com/Ghidyon/Ghidyon/blob/main/icons/linkedin.svg)](https://linkedin.com/in/gideonakunana) &ensp; or send me an email [![mail](https://github.com/Ghidyon/Ghidyon/blob/main/icons/gmail.svg)](mailto:gideonakunana@gmail.com)
 
-### 🔧 Languages and Tools
+## 🔧 Languages and Tools
 
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=f0f6fc&color=238636&labelColor=21262d)
@@ -22,10 +21,10 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=f0f6fc&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=21262d)
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ghidyon&theme=dark&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463"/>
 
-*NOTE: Most used languages does not indicate my skill level or something like that, it's a github metric showing languages I have the most code, hosted on github.*
+*NOTE: "Most used languages" does not indicate my skill level or something like that, it's a github metric showing languages I have the most code, hosted on github.*
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>

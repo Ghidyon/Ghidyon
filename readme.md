@@ -22,7 +22,7 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=f0f6fc&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=FCC624&color=238636&labelColor=21262d)
+![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=0078D6&color=238636&labelColor=21262d)
 
 ## 📈 GitHub Stats
 

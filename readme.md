@@ -9,6 +9,7 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 
 ## 🔧 Languages and Tools
 
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=3178C6&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=f0f6fc&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=f0f6fc&color=238636&labelColor=21262d)
@@ -29,4 +30,4 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 
 *NOTE: "Most used languages" does not indicate my skill level or something like that, it's a github metric showing languages I have the most code, hosted on github.*
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&hide=hack,html&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>

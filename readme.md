@@ -10,24 +10,36 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 ## 🔧 Languages and Tools
 
 <!-- ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=fff&color=238636&labelColor=3178C6) -->
+
+<!-- Javascript -->
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
+<!-- Node.js -->
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node-dot-js&logoColor=ffffff&color=238636&labelColor=339933)
-![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=ffffff&color=238636&labelColor=000000)
-![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=ffffff&color=238636&labelColor=47A248)
-![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=ffffff&color=238636&labelColor=000000)
+<!-- MongoDB -->
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=238636&labelColor=000)
+<!-- Postman -->
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FF6C37&color=238636&labelColor=ffffff)
-<!-- ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=f0f6fc&color=238636&labelColor=21262d) -->
+<!-- MySQL -->
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=ffffff&color=238636&labelColor=4479A1)
-![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jquery&logoColor=0769AD&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/Materialize-informational?style=flat&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=6e40c9&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=f0f6fc&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=31A8FF&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=F05032&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=f0f6fc&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=0078D6&color=238636&labelColor=21262d)
+<!-- jQuery -->
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jquery&logoColor=ffffff&color=238636&labelColor=0769AD)
+<!-- Materialize -->
+![](https://img.shields.io/badge/Materialize-informational?style=flat&color=238636)
+<!-- Bootstrap -->
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=ffffff&color=238636&labelColor=7952B3)
+<!-- Figma -->
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=ffffff&color=238636&labelColor=F24E1E)
+<!-- Photoshop -->
+![](https://img.shields.io/badge/Adobe%20Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=ffffff&color=238636&labelColor=31A8FF)
+<!-- GIT -->
+![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
+<!-- Github -->
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
+<!-- Vs Code -->
+![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
+<!-- Linux -->
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=000000&color=238636&labelColor=FCC624)
+<!-- ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=0078D6&color=238636&labelColor=21262d) -->
 
 ## 📈 GitHub Stats
 
@@ -35,4 +47,4 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 
 *NOTE: "Most used languages" does not indicate my skill level or something like that, it's a github metric showing languages I have the most code, hosted on github.*
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&hide=hack,html&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghidyon&hide=hack,html,php&theme=dark&hide_border=true&text_color=b9c1c9&bg_color=161b22&title_color=40c463&layout=compact"/>

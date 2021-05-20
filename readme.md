@@ -11,7 +11,7 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 
 <!-- ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=fff&color=238636&labelColor=3178C6) -->
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node-dot-js&logoColor=339933&color=238636&labelColor=ffffff)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node-dot-js&logoColor=339933&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=47A248&color=238636&labelColor=000)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FF6C37&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=ffffff&color=238636&labelColor=4479A1)

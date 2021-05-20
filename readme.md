@@ -9,10 +9,15 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 
 ## 🔧 Languages and Tools
 
-![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=3178C6&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=f0f6fc&color=238636&labelColor=21262d)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=f0f6fc&color=238636&labelColor=21262d)
+<!-- ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=fff&color=238636&labelColor=3178C6) -->
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=node-dot-js&logoColor=ffffff&color=238636&labelColor=339933)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=ffffff&color=238636&labelColor=000000)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=ffffff&color=238636&labelColor=47A248)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=ffffff&color=238636&labelColor=000000)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FF6C37&color=238636&labelColor=ffffff)
+<!-- ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=f0f6fc&color=238636&labelColor=21262d) -->
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=ffffff&color=238636&labelColor=4479A1)
 ![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jquery&logoColor=0769AD&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/Materialize-informational?style=flat&color=238636&labelColor=21262d)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=6e40c9&color=238636&labelColor=21262d)

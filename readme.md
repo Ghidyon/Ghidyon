@@ -1,7 +1,6 @@
 [![Header](https://github.com/Ghidyon/Ghidyon/blob/main/readme_header.jpg)](https://github.com/Ghidyon)
 
-![](https://komarev.com/ghpvc/?username=ghidyon&color=40c463&label=Profile+Views)
-# Hello, gorgeous! <img src="https://github.com/Ghidyon/Ghidyon/blob/main/wave.gif" width="30px">
+# Hello, gorgeous! <img src="https://github.com/Ghidyon/Ghidyon/blob/main/wave.gif" width="30px"> <i style="position: absolute; right: 0"> ![](https://komarev.com/ghpvc/?username=ghidyon&color=40c463&label=Profile+Views) </i>
 I'm a full-stack web developer, but that's not all.<br />
 I build buttery-smooth user interfaces, can make a blind man lick his screen 😊.<br />
 I enjoy being challenged with innovative ideas that encourage collaborations for development of smooth UIs and functional websites.

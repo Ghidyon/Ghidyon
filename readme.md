@@ -3,7 +3,9 @@
 # Hello, gorgeous! <img src="https://github.com/Ghidyon/Ghidyon/blob/main/wave.gif" width="30px"> &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; ![](https://komarev.com/ghpvc/?username=ghidyon&color=40c463&label=Profile+Views)
 I'm a full-stack web developer, but that's not all.<br />
 I enjoy being challenged with innovative ideas that encourage collaborations for the development of functional web applications and efficient UX.<br />
-I also build buttery-smooth user interfaces, can make a blind man lick his screen 😊.
+I also build buttery-smooth user interfaces, can make a blind man lick his screen 😊.<br />
+<br />
+When I'm not pushing commits, I'm either reading books or vibing in moves to cool afrobeats.
 
 
 You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/blob/main/icons/twitter.svg)](https://twitter.com/ghidyon_) &ensp; [![Go to LinkedIn](https://github.com/Ghidyon/Ghidyon/blob/main/icons/linkedin.svg)](https://linkedin.com/in/gideonakunana) &ensp; or send me an email [![mail](https://github.com/Ghidyon/Ghidyon/blob/main/icons/gmail.svg)](mailto:gideonakunana@gmail.com)

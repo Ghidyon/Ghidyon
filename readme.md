@@ -10,9 +10,9 @@ When I'm not pushing commits, I'm either reading books or vibing in moves to coo
 
 You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/Ghidyon/blob/main/icons/twitter.svg)](https://twitter.com/ghidyon_) &ensp; [![Go to LinkedIn](https://github.com/Ghidyon/Ghidyon/blob/main/icons/linkedin.svg)](https://linkedin.com/in/gideonakunana) &ensp; or send me an email [![mail](https://github.com/Ghidyon/Ghidyon/blob/main/icons/gmail.svg)](mailto:gideonakunana@gmail.com)
 
-## 🔧 Languages and Tools
+<!-- ## 🔧 Languages and Tools
 
-<!-- ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=fff&color=238636&labelColor=3178C6) -->
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=fff&color=238636&labelColor=3178C6)
 ![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=csharp&logoColor=000000&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
 ![](https://img.shields.io/badge/NodeJS-informational?style=flat&logo=node.js&logoColor=339933&color=238636&labelColor=ffffff)
@@ -28,7 +28,7 @@ You can connect with me on &ensp; [![Go to Twitter](https://github.com/Ghidyon/G
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=000000&color=238636&labelColor=FCC624)
-<!-- ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=0078D6&color=238636&labelColor=21262d) -->
+![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=0078D6&color=238636&labelColor=21262d) -->
 
 ## 📈 GitHub Stats
 
